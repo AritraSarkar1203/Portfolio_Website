@@ -47,7 +47,7 @@ export const BLOGS =[
         image: img1,
         tags: ["React", "Web Development"],
         date: "2024-12-25", // Use ISO date format
-        link: "https://x.com/sarkar13508/status/1877813960348455210",
+        link: "https://x.com/sarkar13508/status/1871650103150498221",
       },
       {
         title: "Build chatapp using websocket",
@@ -61,7 +61,7 @@ export const BLOGS =[
         image: img3,
         tags: ["React", "Web Development"],
         date: "2025-01-11", // Use ISO date format
-        link: "https://x.com/sarkar13508/status/1871650103150498221",
+        link: "https://x.com/sarkar13508/status/1877813960348455210",
       },
       
 ];
