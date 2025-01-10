@@ -4,7 +4,7 @@ import { motion } from "motion/react"
 
 const About = () => {
   return (
-    <div className='border-b border-neutral-900 pb-4'>
+    <div className='border-b border-neutral-900 pb-4 py-8'>
         <h2 className='my-20 text-center text-4xl'>About Me</h2>
         <div className=' flex flex-wrap'>
             <motion.div 
