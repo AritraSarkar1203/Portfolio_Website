@@ -17,10 +17,10 @@ const Hero = () => {
   };
 
   const handleDownload = () => {
-    const cvPath = "/public/mycv.pdf";
+    const cvPath = "/public/Aritra Sarkar.pdf";
     const link = document.createElement("a");
     link.href = cvPath;
-    link.download = "Aritra_CV.pdf"; // This will be the downloaded file name
+    link.download = "Aritra Sarkar.pdf"; // This will be the downloaded file name
     link.click();
   };
 
